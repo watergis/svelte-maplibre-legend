@@ -1,3 +1,5 @@
+# This package was moved into [watergis/svelte-maplibre-components](https://github.com/watergis/svelte-maplibre-components/tree/main/packages/legend)
+
 # svelte-maplibre-legend
 
 This is a svelte component to make layer legend for maplibre-gl
